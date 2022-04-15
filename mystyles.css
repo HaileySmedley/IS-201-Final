@@ -1,0 +1,31 @@
+.head{
+    background-color: honeydew;
+}
+
+a{
+    color: rgb(190, 129, 163);
+}
+
+.list {
+    font-weight: bold;
+}
+
+li {
+    font-weight: normal;
+}
+
+.mysubheading {
+    font-style: italic;
+}
+
+main {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+article {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#contact {
+    text-align: center;
+}
